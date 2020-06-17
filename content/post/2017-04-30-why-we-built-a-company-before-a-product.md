@@ -1,13 +1,15 @@
 ---
 title: Why we built a company before building a product and why it worked
-date: 2017-04-30
-hero: /images/hero-6.jpg
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft.
+date: 2017-04-29T16:00:00+00:00
+hero: "/images/hero-6.jpg"
+excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
+  apps in the U.S, along with Uber, Lyft.
 timeToRead: 3
 authors:
-  - Thiago Costa
+- Thiago Costa
 
 ---
+Test teest test benny
 
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
@@ -113,15 +115,15 @@ export default props => (
 
 These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself. These are the circumstances that suffocate creativity and destroy value in an organization. That’s why I knew that if I was going to start a company, our first product would have to be the company itself.
 
----
+***
 
 Hyphens
 
----
+***
 
 Asterisks
 
----
+***
 
 Underscores
 
@@ -139,7 +141,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-   ⋅⋅\* Unordered sub-list.
+   ⋅⋅* Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number
    ⋅⋅1. Ordered sub-list
 4. And another item.
@@ -150,8 +152,10 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Unordered list can use asterisks
+* Unordered list can use asterisks
+
 
 * Or minuses
 
-- Or pluses
+
+* Or pluses
